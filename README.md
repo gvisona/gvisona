@@ -17,6 +17,7 @@ I research applications of deep learning for the field of precision medicine.
   </a>&nbsp;&nbsp;
 
   <a href="https://gvisona.com/blog" title="ML and Software Blog"><img
-src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Personal Blog"></a>
+src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Personal Blog"></a>&nbsp;&nbsp;
+
   
 </p>
