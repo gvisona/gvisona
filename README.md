@@ -15,5 +15,8 @@ I research applications of deep learning for the field of precision medicine.
   <a href="https://orcid.org/0000-0002-7878-5448">
     <img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
   </a>&nbsp;&nbsp;
+
+  <a href="https://gvisona.com/blog" title="ML and Software Blog"><img
+src="https://img.shields.io/badge/Development_Blog-1d1d1d.svg?style=for-the-badge" alt="Personal Blog"></a>
   
 </p>
